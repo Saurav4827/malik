@@ -1,4 +1,4 @@
-package ashok;
+package Collection;
 
 import java.util.*;
 

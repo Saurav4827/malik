@@ -1,4 +1,4 @@
-package ashok;
+package Collection;
 public class Compare {
 	static Student[] students = new Student[5];
 
